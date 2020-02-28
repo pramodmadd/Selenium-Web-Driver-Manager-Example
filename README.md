@@ -1,5 +1,7 @@
 # Selenium-Web-Driver-Manager-Example
 
+WebDriverManager allows to automate the management of the binary drivers (e.g. chromedriver, geckodriver, etc.) required by Selenium WebDriver.
+
 This is a sample project, implemented using Web Driver Manager which allows to automate the management of the binary drivers (Ex: geckodriver, chromedriver, phantomdriver & etc) required by selenium web driver. 
 
 ### Introdution
