@@ -16,7 +16,7 @@ System.setProperty("webdriver.edge.driver", "C:/path/to/binary/msedgedriver.exe"
 System.setProperty("webdriver.ie.driver", "C:/path/to/binary/IEDriverServer.exe");
 ```
 
-This is quite annoying since it forces you to link directly this binary file into your source code. In addition, you have to check manually when new versions of the binaries are released. Also when the browser get updated time to time additionaly we have to download exact driver version and set the path inoder to run the scripts. 
+This is quite annoying since it forces you to link directly this binary file into your source code. In addition, you have to check manually when new versions of the binaries are released. Also when the browser get updated time to time additionally we have to download exact driver version and set the path in oder to run the scripts. 
 
 This is where WebDriverManager comes into the picture, performing in an automated way to do this dirty processes for you.
 
